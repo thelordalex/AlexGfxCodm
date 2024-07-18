@@ -17,7 +17,7 @@
 2. Open your preferred sh executor (e.g., MT Manager or Brevent).
 3. Locate and run the `AlexGfxCodm.sh` script.
 4. Follow the on-screen instructions and reboot your device if necessary.
-
+5. Example of this path [ sh /sdcard/Android/AlexGfxCodm.sh ]
 ## Uninstallation
 1. Open your preferred sh executor (e.g., MT Manager or Brevent).
 2. Locate and run the uninstallation script or manually remove the changes made by the `AlexGfxCodm.sh` script.
