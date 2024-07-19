@@ -27,6 +27,10 @@
 3. Don't do a Reboot 
 4. Restart to clear the module
 
+## Language
+
+This project is primarily written in Shell.
+
 ## Contribution
 If you want to contribute to the development of this script, you can open a new issue or submit a pull request on the repository.
 
